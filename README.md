@@ -1,4 +1,4 @@
-![MasterHead](https://2.bp.blogspot.com/-qpY3qL_LIdc/WBjcGqLezDI/AAAAAAAAMD8/6d2X1up5hSMQPRFCwH2xhVMtFWm_s18uACLcB/s1600/black-and-white-wallpaper-15.jpg)
+
 <h1 align="center">Hi, I'm Mert Ceyhan</h1>
 <h3 align="center">A passionate Electrical Engineer from Turkey.</h3>
 
